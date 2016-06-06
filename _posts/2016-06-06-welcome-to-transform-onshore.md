@@ -1,11 +1,11 @@
 ---
 description: 'Digital Transformation: What, Why, and How?'
-dateModified: '2016-06-06T20:58:28.358Z'
-datePublished: '2016-06-06T20:59:10.171Z'
+dateModified: '2016-06-06T21:05:12.052Z'
+datePublished: '2016-06-06T21:05:12.281Z'
 title: Welcome... To Transform Onshore!
 author: []
-starred: false
 sourcePath: _posts/2016-06-06-welcome-to-transform-onshore.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
