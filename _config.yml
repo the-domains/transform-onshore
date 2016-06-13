@@ -1,16 +1,17 @@
-typography_spectrum: 0.2935475087724626
+typography_spectrum: 0.7535762118641287
 color:
-  brandStrength: 0.6089669114444405
-  lightness: 0.6838747442234308
-  saturation: 0.3149270105641335
-  rhythmicContrast: 0.30658509815111756
+  brandStrength: 0.27503026532940567
+  lightness: 0.7558817628305405
+  saturation: 0.49530732329003513
+  rhythmicContrast: 0.47223401884548366
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 layout_spectrum: 0.7382888062857091
 name: Transform Onshore
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/359fc970-45e4-4353-a7b7-58f2992c1923.ico'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/359fc970-45e4-4353-a7b7-58f2992c1923.ico
 title: Bringing digital transformation to the Onshore world
